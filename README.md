@@ -1,27 +1,157 @@
-# 💫 About Me:
-🔭 I’m currently working on GenAI and Agentic AI<br>👯 I’m looking to collaborate on Kaggle Competitions<br><br>💬 Ask me about anything regarding ML/AI/Data Science<br>📫 How to reach me: akashve1996@gmail.com<br><br>🧠 I’m interested in<br>📌 Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI<br><br>🛠️ Tech I work with<br>🐍 Python | PyTorch | TensorFlow | FastAPI | NumPy | Pandas | OpenCV<br><br>📊 Currently building<br>🚀 End-to-end AI projects, model training pipelines, and production-ready APIs<br><br>📚 Learning goals for this year<br>🎯 Transformers, LLM fine-tuning, RAG systems, AI agents<br><br>🧪 I like experimenting with<br>🔬 Model architectures, hyperparameter tuning, and optimization techniques<br><br>🗂️ Projects I enjoy<br>📁 Real-world datasets, automation tools, and scalable AI systems<br><br>🧩 Problem areas I love solving<br>🧠 Sequence modeling, text understanding, image classification<br><br>🤖 AI topics I follow closely<br>📰 LLMs, multimodal models, autonomous agents<br><br>🎓 Background<br>🏗️ Strong fundamentals in ML algorithms, neural networks, and data science<br><br>🌍 Open to opportunities<br>💼 AI/ML internships, research collaboration, open-source contributions<br><br>📢 I enjoy explaining<br>🧑‍🏫 Complex AI concepts in simple, beginner-friendly ways<br><br>🕒 When I’m not coding<br>☕ Reading tech blogs, watching AI talks, improving communication skills<br><br>🔥 Goals<br>🏆 Become a strong AI engineer who builds real-world impactful solutions
+<div align="center">
 
+# Hey there! I'm Akash Verma 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-verma-5899a411a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashve1996@gmail.com) 
+### Senior Software Engineer · ML/AI Enthusiast · Computer Vision Specialist
 
-# 💻 Tech Stack:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akashverma1995&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akashverma1995&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashverma1995&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-verma-5899a411a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashve1996@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashverma1995)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akashverma1995&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akashverma1995&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akashverma1995&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```python
+class AkashVerma:
+    def __init__(self):
+        self.role = "Senior Software Engineer"
+        self.location = "Bengaluru, India 🇮🇳"
+        self.current_focus = ["GenAI", "Agentic AI", "Computer Vision"]
+        self.experience = ["Machine Learning", "Deep Learning", "NLP", "LiDAR Processing"]
+        self.open_to = ["Kaggle Competitions", "Research Collaborations", "Open Source"]
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together.")
+
+me = AkashVerma()
+me.say_hi()
+```
+
+---
+
+## 🔭 What I'm Working On
+
+- 🤖 **GenAI & Agentic AI** — Building intelligent autonomous systems
+- 👁️ **Computer Vision** — Real-time applications with MediaPipe, OpenCV, TFLite
+- 🚀 **End-to-End AI Pipelines** — From model training to production-ready APIs
+- 📡 **LiDAR & 3D Point Clouds** — Vegetation analysis, wire detection, infrastructure mapping
+
+## 🎯 2026 Learning Goals
+
+- Transformer architectures & LLM fine-tuning
+- RAG systems & AI Agents
+- Advanced MLOps & model optimization
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ML / DL Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### Data & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+#### Web & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### Tools & Platforms
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akashverma1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashverma1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=akashverma1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=akashverma1995&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=akashverma1995&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🧩 What I Bring to the Table
+
+| Area | Expertise |
+|------|-----------|
+| **Machine Learning** | Classification, regression, clustering, ensemble methods, hyperparameter tuning |
+| **Deep Learning** | CNNs, RNNs, Transformers, transfer learning, model optimization |
+| **Computer Vision** | Object detection, face tracking, gesture recognition, MediaPipe, TFLite |
+| **NLP** | Text classification, sequence modeling, embeddings, LLM integration |
+| **3D & LiDAR** | Point cloud processing, vegetation analysis, catenary curve fitting |
+| **MLOps** | Model deployment, CI/CD pipelines, containerization, monitoring |
+
+---
+
+<div align="center">
+
+### 💡 *"The best way to predict the future is to build it."*
+
+<br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=akashverma1995&icon=6&color=1)
+
+**If you find my work interesting, let's connect!**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-verma-5899a411a/)
+
+</div>
