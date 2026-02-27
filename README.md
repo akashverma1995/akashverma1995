@@ -97,13 +97,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akashve1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashverma1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashve1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashverma1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Akashve1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=akashverma1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -123,7 +123,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Akashve1995&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=akashverma1995&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
