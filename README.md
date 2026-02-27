@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-verma-5899a411a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashve1996@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashverma1995)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akashve1995)
 
 </div>
 
@@ -97,13 +97,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashve1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akashve1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashverma1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashve1995&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=akashverma1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Akashve1995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -113,7 +113,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=akashverma1995&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Akashve1995&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
 
 </div>
 
@@ -123,7 +123,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=akashverma1995&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Akashve1995&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -148,7 +148,7 @@ me.say_hi()
 
 <br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=akashverma1995&icon=6&color=1)
+![Profile Views](https://visitcount.itsvg.in/api?id=Akashve1995&icon=6&color=1)
 
 **If you find my work interesting, let's connect!**
 
